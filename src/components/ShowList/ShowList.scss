@@ -1,0 +1,17 @@
+.row {
+    margin-left: 20px;
+    color: #fff;
+
+    .heading {
+        padding-left: 20px;
+        margin: 20px 0;
+        color: black;
+    }
+
+    .show-section {
+        display: flex;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        margin: 20px 0 20px 20px;
+    }
+}
